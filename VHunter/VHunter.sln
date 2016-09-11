@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{992B6593-11FB-6F4E-63D2-881910B3E373}") = "VHunter", "Assembly-CSharp.csproj", "{DC6E91BA-DDC2-32E9-FAFE-F7382B866475}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC6E91BA-DDC2-32E9-FAFE-F7382B866475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC6E91BA-DDC2-32E9-FAFE-F7382B866475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC6E91BA-DDC2-32E9-FAFE-F7382B866475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC6E91BA-DDC2-32E9-FAFE-F7382B866475}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
